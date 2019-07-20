@@ -1,6 +1,7 @@
 # Installment Loan Calculator
 ## About the solution
 Test code coverage has been checked with Jacoco.
+
 The first installment date is the next month of Loan_Start_Date 
 
 
