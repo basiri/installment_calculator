@@ -1,8 +1,7 @@
 # Installment Loan Calculator
 ## About the solution
 Test code coverage has been checked with Jacoco.
-Controller request body and reinstallment_calculatornse body accept and return JSON 
-The first installment date is the next month of Loan_Start_date 
+The first installment date is the next month of Loan_Start_Date 
 
 
 ## Libraries & Tools
